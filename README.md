@@ -19,6 +19,7 @@ Simple data science problem that focuses and visualizing and analyzing the datas
 * Run `pip install -r requirements.txt` to install the required Python packages:
 
 ## Objectives
+Visualize the data and analyze correlations using Python with your choice of libraries, such as `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scipy`.
 
 ### Visualize Data
 
